@@ -1,0 +1,44 @@
+Assignment
+Choose a dataset
+You get to decide which dataset you want to work on. 
+The data set must be different from the ones used in previous homework
+You can work on a problem from your job, or something you are interested in.
+You may also obtain a dataset from sites such as Kaggle, Data.Gov, Census Bureau, USGS or other open data portals. 
+
+Methodologies
+Weeks 1- 10: Select one of the methodologies studied in weeks 1-10
+Linear Regression/Multiple Linear Regression
+Logistic regression (univariate v. multivariate)
+Linear Discriminant Analysis
+K-Nearest Neighbors
+Naïve Bayes
+Decision Trees/CART
+AdaBoost
+XGoost
+Bagging
+Random forest/Gradient Boosting 
+Support Vector Machine
+SVM continued
+Unsupervised learning
+K-means clustering 
+Hierarchical clustering 
+
+Weeks 11 - 15: 
+Select another methodology from weeks 11-15
+PCA and distance metrics
+Re-sampling procedures
+Bias - Variance trade off
+Neural networks
+
+To complete this task:
+Describe the problem you are trying to solve.
+Describe your datasets and what you did to prepare the data for analysis. 
+Methodologies you used for analyzing the data
+What's the purpose of the analysis performed
+Make your conclusions from your analysis. Please be sure to address the business impact (it could be of any domain) of your solution.
+
+Deliverable:
+Your final presentation (essay or video) should include:
+The traditional R file or Python file and essay,
+An Essay (minimum 500 word document) or Video (5 to 8 minutes recording)
+Include the execution and explanation of your code. The video can be recorded on any platform of your choice (Youtube, Free Cam).
